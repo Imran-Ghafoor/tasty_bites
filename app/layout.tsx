@@ -22,6 +22,10 @@ export const metadata: Metadata = {
   description:
     "Experience the finest Pakistani and Indian cuisine at Tasty Bites. Specializing in Lamb Biryani, Chicken Biryani, BBQ, and Catering Services.",
   generator: "Tasty Bites",
+  
+  icons:{
+    icon:"/fevicon.png"
+  }
 }
 
 export default function RootLayout({
